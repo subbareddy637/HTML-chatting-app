@@ -1,0 +1,6 @@
+body { font-family: sans-serif; padding: 1em; }
+#chat { max-width: 600px; margin: auto; }
+#messages { height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; }
+.message { margin: 4px 0; }
+.you { color: blue; }
+.they { color: green; }
